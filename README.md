@@ -1,1 +1,0 @@
-https://JulaGruzdeva.github.io/rsschool-cv/cv
