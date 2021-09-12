@@ -22,3 +22,10 @@ Eighteen years old girl, who wants to get greate experience and improve skills i
   }
 console.log(getMiddle('test'))
 ```
+## Education
+* **Html Academy**
+* **YouTube**
+
+## English
+I have A2 English. Сonversations with native speakers, courses.
+
