@@ -11,7 +11,10 @@ Eighteen years old girl, who wants to get greate experience and improve skills i
 * **Python**
 * **Adobe illustrator, XD**
 ## Code
-```function getMiddle(s){
+```javascript
+var s = "Подсветка JavaScript";
+alert(s);
+function getMiddle(s){
     
     if ((s.length%2)===0){
         return (s[s.length/2-1] + s[s.length/2])}
@@ -22,10 +25,12 @@ Eighteen years old girl, who wants to get greate experience and improve skills i
   }
 console.log(getMiddle('test'))
 ```
+
 ## Education
 * **Html Academy**
 * **YouTube**
 
 ## English
 I have A2 English. Сonversations with native speakers, courses.
+
 
