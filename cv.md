@@ -20,4 +20,5 @@ Eighteen years old girl, who wants to get greate experience and improve skills i
     
 
   }
-console.log(getMiddle('test'))```
+console.log(getMiddle('test'))
+```
