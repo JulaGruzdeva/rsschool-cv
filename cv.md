@@ -7,6 +7,6 @@ Eighteen years old girl, who wants to get greate experience and improve skills i
     As a practice, I made up sites based on videos on YouTube. 
     I want to develop and delve into the direction that brings happiness.
 ## Top Skills
-HTML and CSS Basic
-    Python
-    Adobe illustrator, XD
+* **HTML and CSS Basic**
+* **Python**
+* **Adobe illustrator, XD**
