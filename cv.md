@@ -10,6 +10,7 @@ Eighteen years old girl, who wants to get greate experience and improve skills i
 * **HTML and CSS Basic**
 * **Python**
 * **Adobe illustrator, XD**
+
 ## Code
 ```javascript
 var s = "Подсветка JavaScript";
@@ -32,5 +33,7 @@ console.log(getMiddle('test'))
 
 ## English
 I have A2 English. Сonversations with native speakers, courses.
+
+
 
 
