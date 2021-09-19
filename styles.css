@@ -1,0 +1,120 @@
+body {
+    background-color: #f0ecea;;
+    color:#b0a89e;
+    font-size: 16px;
+    font-weight:inherit;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;: 
+}
+
+
+h1 {
+    color:#ad896e;
+    text-align-last: left;
+    margin: 7px 0 7px 7px;
+    padding: 5px 10px;
+    
+}
+.hr1{
+    width: 200px;
+    margin-left: 5ex;
+    border: 1px solid #ad896e;
+    border-radius: 5px;
+    margin-top: 5%;
+}
+
+
+h2{
+    color: #86817c;
+    font-size: 25px;
+    text-decoration: none;
+}
+p{
+    color: #a28c89;
+}
+ul{
+    color: #a28c89; 
+}
+
+.code{
+    color: #a28c89;
+    
+}
+.code1{
+    text-align-last: center;
+    padding-top: 15px;
+}
+
+.secondU{
+    color: #a28c89;
+}
+.secondP{
+    padding: 0px 15px;
+}
+
+
+
+.avatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 4px 4px 15px #ad896e;
+    float: right; 
+    
+} 
+
+.info p{
+    margin: 7px 0 7px 7px;
+    padding: 5px 10px;
+    
+    
+}
+
+
+.container{
+    max-width: 750px;
+    margin: auto;
+}
+
+.card{
+   padding: 15px;
+   border-left: 2px solid #ad896e;
+   border-radius: 2px;
+   
+}
+
+footer{
+    max-width: 750px;
+    margin: auto;
+    padding: 5px
+    
+    
+}
+a{
+    text-decoration: none;
+
+}
+a:link{
+    text-decoration-color: #ad896e ;
+}
+ul{
+    list-style-type: none;
+    padding: 15px;
+    margin-right:50%;
+    
+}
+.fot{
+    color: #ad896e;
+    font-size:medium; 
+    padding: 1px;
+}
+.fot:hover{
+    color:#f0ecea
+    
+    
+
+}
+.fot2{
+    color: #ad896e;
+    font-size: medium;
+    padding: 1px;
+}
