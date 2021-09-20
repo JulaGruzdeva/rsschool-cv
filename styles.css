@@ -69,6 +69,10 @@ ul{
     
 }
 
+.list{
+    list-style-type: none;
+}
+
 
 .container{
     max-width: 750px;
